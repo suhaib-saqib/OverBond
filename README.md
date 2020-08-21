@@ -1,5 +1,11 @@
 # OverBond
 
+## How To Use:
+
+- Download files into one folder
+- double click 'overbond.html' to open in browser of choice
+- open browser console to see information
+
 ## Overview:
 
 - This app calculates the yield spread for a bond using a benchmark government bond or the government bond curve.
